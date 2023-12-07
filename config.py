@@ -16,6 +16,12 @@
 # wechatVersion = "2.9.0.112"
 # wechatOffset = 0x16B4C70
 
-wechatVersion = "3.7.0.30"
-wechatOffset = 0x2366524
+# wechatVersion = "3.7.0.30"
+# wechatOffset = 0x2366524
+
+# wechatVersion = "3.9.6.33"
+# wechatOffset = 0x3B28800
+
+wechatVersion = "3.9.7.15"
+wechatOffset = 0x3C8B040
 
