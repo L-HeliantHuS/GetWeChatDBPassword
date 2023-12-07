@@ -21,7 +21,7 @@
 
             Enjoy Python!
 ```
-程序编写时, `Windows`版本微信最新版本为`2.9.0.123`
+程序编写时, `Windows`版本微信最新版本为`2.9.0.123`, 具体可用版本请看`config.py`里面的版本
 
 ## 感谢
 程序使用`PyCharm`进行编写, 特此感谢[JetBrains](https://www.jetbrains.com/)提供的开源许可。
